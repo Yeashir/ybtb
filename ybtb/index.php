@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Yeasfi Back to Top
- * Plugin URI: https://github.com/Yeashir
+ * Plugin URI: https://github.com/Yeashir/ybtb
  * Description: Back to Top button 
  * Version: 1.0
  * Author: Md Yeashir Arafat
- * Author URI: https://github.com/Yeashir
+ * Author URI:https://www.linkedin.com/in/yeashirarafat/
  * */
 require_once dirname(__FILE__) . '/option.php';
 
